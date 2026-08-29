@@ -1,0 +1,19 @@
+/*
+Theme Name: DentoMart
+Theme URI: https://dentomart.example
+Author: DentoMart
+Author URI: https://dentomart.example
+Description: Custom WooCommerce theme for DentoMart — a modern, responsive dental supplies store. Premium dark header & footer, curated homepage sections driven by WordPress + ACF, clean component-based architecture.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 7.1
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: dentomart
+Tags: e-commerce, woo-commerce, blog, custom-menu, custom-logo, featured-images
+WC requires at least: 6.0
+WC tested up to: 11.0
+*/
+
+/* This file is intentionally minimal. All styles live in assets/css/main.css */
